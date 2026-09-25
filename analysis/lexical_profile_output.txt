@@ -1,0 +1,22 @@
+Words: 115594
+
+A. Alchemical terms of art (Pernety 1758)
+  alchim: 2 | transmut: 0 | grand[ -]œuvre: 0 | magistère: 0 | élixir: 0 | philosophale: 0 | putréf: 0 | calcin: 0 | coagul: 0 | \bmercure\b: 0 | \bsoufre\b: 0 | teinture: 0 | régénér: 0 | \bvolatil: 0 | quintessence: 0 | hermès: 0 | hermétique: 0 | athanor: 0 | alambic: 0 | creuset: 1 | \bsels?\b: 4 | rosée: 4 | matières? premières?: 2 | \badeptes?\b: 3
+
+B. Masonic ritual / initiatic
+  \bloges?\b: 0 | franc-maç: 0 | \bmaçons?\b: 2 | \batelier: 5 | \btemples?\b: 1 | architecte: 1 | \bniveau: 19 | nivel: 9 | équerre: 0 | \bcompas\b: 0 | \bcolonnes?\b: 1 | pierres? angulaires?: 1 | pierre d'attente: 1 | \borient\b: 1 | vénérable: 0 | \bhiram\b: 0 | acacia: 0 | \bgrades?\b: 0 | initia: 4 | fraternité: 15 | \bfrères?\b: 23 | divin ouvrier: 1 | grand mécanicien: 1
+
+C. Christian theology
+  providen: 48 | \bdieu\b: 114 | créateur: 7 | rédemption: 1 | rachète: 2 | déchéance: 2 | infirmité native: 3 | sueur de (?:ton|son) front: 4 | genèse: 1 | moïse: 2 | \bchrist: 3 | calice: 1 | royaume de dieu: 1 | \bbéni[rt]\b: 4 | martyr: 2 | dogme: 5 | digitus dei: 1 | psalmiste: 1 | \bimpie: 3 | sacrilège: 1 | miracle: 3
+
+D. Newtonian / Enlightenment science
+  newton: 5 | k[ée]pl: 1 | laplace: 1 | gravitation: 20 | attraction: 3 | centrifuge: 2 | centripète: 1 | mécanique: 15 | mécanisme: 35 | observation: 25 | astronom: 4 | physiolog: 7 | molécule: 3 | élasticité: 14 | électricité: 11 | magnétisme: 3 | affinité: 3
+
+E. Harmony / music
+  harmoni: 207 | dissonan: 10 | discordan: 6 | vibration: 1
+
+F. Evil / pain
+  \ble mal\b: 37 | \bdu mal\b: 8 | \bmaux\b: 15 | douleur: 24 | souffrance: 32 | châtiment: 6 | \bmission: 27
+
+G. Gratuity / community
+  gratuit: 216 | communauté: 103 | dons? de dieu: 34 | libéralité: 19 | par-dessus le marché: 8 | anéanti: 34
