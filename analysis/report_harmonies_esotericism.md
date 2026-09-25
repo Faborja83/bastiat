@@ -2,7 +2,7 @@
 
 **Question.** Are the conceptual structures of Bastiat's *Harmonies économiques*, especially the features scholars have found "unusual", better explained by ordinary nineteenth-century liberal/Christian language, or do they show combinations of concepts characteristic of the French Hermetic–alchemical–Masonic tradition?
 
-**Short answer.** The unusual features are real, and they are theological. In the first edition Bastiat builds a soteriology of economic progress: *value is the evil (le mal)* born of the obstacle that the Genesis curse placed between need and satisfaction, and progress is the gradual annihilation of that value into free, common utility, by which "l'humanité se relève de sa déchéance". Structurally, this is the Fall → progressive rehabilitation schema that the *Dictionary of Gnosis and Western Esotericism* traces from Illuminist "reintegration" into Romantic philosophies of history. In Bastiat, however, it arrives already historicised and secularised, stated in the vocabulary of Christian providentialism, physico-theology and Newtonian science. It also comes with an explicit repudiation of alchemy, astrology, imagination, occult qualities, secrecy, hieroglyphic knowledge and priestcraft. With the complete *Dictionary*, the closest comparandum turns out to be Ballanche's *Palingénésie sociale*. Bastiat keeps its historical skeleton (Fall, suffering as expiation, providential social law, equalisation, rehabilitation) and removes its esoteric organs (initiation, primitive revelation, correspondences, magnetism) (§2, §9).
+**Short answer.** The unusual features are real, and they are theological. In the first edition Bastiat builds a soteriology of economic progress: *value is the evil (le mal)* born of the obstacle that the Genesis curse placed between need and satisfaction, and progress is the gradual annihilation of that value into free, common utility, by which "l'humanité se relève de sa déchéance". Structurally, this is the Fall → progressive rehabilitation schema that the *Dictionary of Gnosis and Western Esotericism* traces from Illuminist "reintegration" into Romantic philosophies of history. In Bastiat, however, it arrives already historicised and secularised, stated in the vocabulary of Christian providentialism, physico-theology and Newtonian science. It also comes with an explicit repudiation of alchemy, astrology, imagination, occult qualities, secrecy, hieroglyphic knowledge and priestcraft. With the complete *Dictionary*, the closest comparandum turns out to be Ballanche's *Palingénésie sociale*. Bastiat keeps its historical skeleton (Fall, suffering as expiation, providential social law, equalisation, rehabilitation) and removes its esoteric organs (initiation, primitive revelation, correspondences, magnetism) (§2, §9). Reading the complete works (§10) confirms this. The documented sources are mainstream and first-hand: Pope's *Essay on Man*, "All discord, harmony not understood". Freemasonry is named only as the secret opposite of the free-traders' publicity. The one esoteric genealogy reached him through his friend Coudroy's Maistre and Bonald.
 
 - **Hermetic–alchemical source:** not supported. The parallels are structural (self-limiting evil, "value annihilated", the water cycle, the earth as a "laboratory"). The technical lexicon is entirely absent, and Bastiat projects the alchemist-operator model onto his socialist opponents.
 - **Masonic influence:** plausible only at the level of liberal ethos. That ethos includes the republican triad, fraternity, the "niveau" (level) as equalising telos, builders' imagery, and Voltairean anti-priestcraft. No ritual vocabulary appears.
@@ -289,7 +289,26 @@ These deepen the pattern of §2. They do not introduce Hermetic vocabulary. The 
 
 ---
 
-## 10. Conclusion
+## 10. Bastiat's other writings (complete works, 7 vols.)
+
+The full evidence is in `other_writings.md`, the texts in `sources/bastiat_oeuvres_completes/`, and the scan in `oeuvres_marker_scan.py` and its output. In brief:
+
+- **The lexicon test holds for the whole œuvre** (about 1.23 million words):
+  - zero Swedenborg, Ballanche, Fabre d'Olivet, *théosophie*, *somnambulisme*, *transmutation*, *Grand Orient*;
+  - every *alchimie*, *illuminé* and *cabalistique* is pejorative;
+  - *magnétisme* never means animal magnetism.
+- **Freemasonry appears twice, both times as the secret antitype of the Ligue's publicity.** Cobden: « La Ligue est une franc-maçonnerie, **à cela près que tout est public** » (letter, July 1845). And in *Cobden et la Ligue*, the French will ask « quelle franc-maçonnerie mystérieuse en a noué les fils… **cela s'est fait en plein soleil** » (1845).
+- **The letters of the lodge years (1819–31) never mention a lodge.** They record a religious crisis (1820: « cette rédemption, qu'il doit être doux d'y croire! ») and his reading: Say, Smith, Destutt, *le Censeur*, Laromiguière, Franklin, *Paul et Virginie*, and **Pope's *Essay on Man***, which Bastiat and Coudroy were translating in 1824. Its first epistle ends "All discord, harmony not understood; / All partial evil, universal good". That is a documented, first-hand source for *dissonance harmonique*.
+- **The one ambiguous phrase**, « la secte écossaise » (1830), is glossed by the editor as the school of Adam Smith. The Masonic ("Scottish Rite") reading is conceivable but unsupported.
+- **Fontenay's *Notice*** traces the "caractère profondément religieux" of Bastiat's economics partly to his long dialogue with Coudroy's **Maistre-and-Bonald** traditionalism. This gives the Illuminist → Romantic genealogy of §2 a **documented personal channel**, received as Catholic traditionalism to be answered by liberty.
+- **The plan of the book (letter, 5 June 1845)** sets "les harmonies naturelles et providentielles" against "le penchant de notre époque à rechercher des organisations, des **harmonies artificielles**", i.e. against the Fourierist *Harmonie*.
+- **The *Projet de préface* (1847)** lists what he and Coudroy read on their walks: Plato (as proof that "l'homme est perfectible"), Bacon, Lamartine, Bossuet, Fox, Lamennais, "et même Fourier", Say, Dunoyer, Comte. No esoteric author appears.
+- **The late religious fragments** are Catholic, ecumenical (« fusion future entre toutes les religions chrétiennes ») and anti-sacerdotal. They state the asymptote outright: « L'unité… est la consommation suprême, le point vers lequel gravite et gravitera éternellement, **sans jamais l'atteindre**, l'esprit humain… C'est la variété, la diversité qui sont au commencement ». On his deathbed he rejects deism: « Je ne discute pas le dogme, je l'accepte ».
+- **Correction to §5.** The "caste… langue morte… écriture hiéroglyphique" of L2977 has a fuller twin in *Physiologie de la spoliation* (*Sophismes* II.1, 1848). There the impostor-priest also invents « une institution qui me ferait pénétrer… dans le secret de toutes les consciences » (confession). The Egyptian priest is Bastiat's recurring **type of sacerdotal monopoly**, the Latin clergy included. The parallel with what Marconis and Leroux called *ésotérisme* stands, but Bastiat's own target is priestcraft in general.
+
+---
+
+## 11. Conclusion
 
 1. **The "unusual" elements are genuine and should be read theologically.** *Mal* is evil in the full sense. Value is evil born of the Genesis obstacle, progress is its gradual reduction, and the market order is a providential economy of redemption that lifts humanity « de sa déchéance » toward an unreachable divine gratuity.
 2. **These structures are best explained by ordinary, though intense, nineteenth-century Christian-liberal language**, specifically:
@@ -301,7 +320,8 @@ These deepen the pattern of §2. They do not introduce Hermetic vocabulary. The 
 
    Only this last layer has an esoteric genealogy. Bastiat receives it at third hand, through the common culture of 1830–48, not from Hermetic or alchemical sources. The closest comparandum is Ballanche's *Palingénésie sociale*. Bastiat keeps its historical skeleton and removes initiation, primitive revelation, correspondences and magnetism (§2, §9).
 3. **Hermetic–alchemical influence is not supported.** The homologies exist (self-limiting evil ~ poison as its own remedy; value annihilated ~ purification of the base; the water cycle ~ distillation; sun, moon, dew, salts, laboratory, veil). But the technical lexicon is absent, and the text repeatedly and explicitly repudiates alchemy, astrology, imagination, occult qualities, secrecy, hieroglyphic learning and priestcraft. The alchemist-operator is cast as Bastiat's opponent. This is a component "common to several forms of thought" (Faivre), not borrowing.
-4. **Masonic influence is plausible only as ethos** (fraternity, the level/equality, the craftsman God, anti-priestcraft), consistent with his reported liberal lodge membership and not demonstrable from the text.
+4. **Masonic influence is plausible only as ethos** (fraternity, the level/equality, the craftsman God, anti-priestcraft), consistent with his reported liberal lodge membership and not demonstrable from the text. Across the complete works (§10), Freemasonry is named only as the secret opposite of the Ligue's publicity. The letters of the lodge years are silent about any lodge, and his deathbed profession rejects deism.
+5. **The documented sources are mainstream and first-hand** (§10): Pope's *Essay on Man*, Bernardin, Franklin, Say, Dunoyer and Comte, Lamartine and Lamennais. The one esoteric genealogy reaches him through Coudroy's Maistre and Bonald, as Catholic traditionalism to be answered.
 
 **Suggested next steps.**
 - Ballanche, *Essais de palingénésie sociale* (1827–31) and *Orphée*, read directly against L2977 and L3025, plus McCalla, *A Romantic Historiosophy* (Brill 1998). This is now the highest-value comparison.
@@ -311,9 +331,10 @@ These deepen the pattern of §2. They do not introduce Hermetic vocabulary. The 
 - Leroux, *De l'humanité* (1840) and his concept of *solidarité*.
 - Maistre, *Soirées*, on *réversibilité*.
 - Lacuria, *Harmonies de l'Être*.
-- Bastiat's 1820s correspondence and the *La Zélée* records (BnF, fonds maçonnique).
+- The *La Zélée* records (BnF, fonds maçonnique). Bastiat's published 1820s correspondence has now been read (§10) and is silent. Unpublished letters, or the Coppet edition's fuller apparatus, may add more.
+- Pope, *Essay on Man* (Epistle I), and Maistre's *Soirées* read against the *Harmonies* passage by passage, now that both are documented channels.
 - For the theological-economic structure, the literature on *oikonomia* and providential government (e.g. G. Agamben, *Il Regno e la Gloria*, 2007). This is not in the uploaded corpus and is flagged for verification.
 
 ---
 
-*Files:* `analysis/harmonies_1850_reflowed.txt` (reading text with line numbers) · `analysis/evidence_register.md` (all passages read, by chapter) · `analysis/lexical_profile.py` and `analysis/lexical_profile_output.txt` (reproducible lexical counts).
+*Files:* `analysis/other_writings.md` (the complete works) · `analysis/oeuvres_marker_scan.py` and its output · `sources/bastiat_oeuvres_completes/` · `analysis/harmonies_1850_reflowed.txt` (reading text with line numbers) · `analysis/evidence_register.md` (all passages read, by chapter) · `analysis/lexical_profile.py` and `analysis/lexical_profile_output.txt` (reproducible lexical counts).
