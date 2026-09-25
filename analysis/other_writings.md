@@ -79,7 +79,8 @@ That is the whole theodicy of the *Harmonies* in four lines: evil as a component
 **(b) "La secte écossaise" (letter to Coudroy, Bayonne, 4 Aug. 1830).** Describing the July Revolution in Bayonne, he writes: « je n'eusse été qu'à demi de la **secte écossaise**, j'en serais doublement aujourd'hui ».
 - **The editor's reading.** Paillottet, who knew him and handled the manuscripts, glosses it as the school of Adam Smith: liberal politics as the corollary of Scottish political economy. That reading fits the idiom. The economists had been « la secte des économistes » since the physiocrats, and the sentence is about "hommes éclairés, riches, prudents" proving that wealth and enlightenment produce order.
 - **The Masonic reading.** In a Masonic context *écossais* would evoke the Scottish Rite (the *Rite Écossais Ancien et Accepté*, or the *Rite Écossais Philosophique* that the *Dictionary* associates with Hermetic high degrees).
-- **Assessment.** The Masonic reading is possible, but nothing in the letter supports it, and it cannot be preferred to the editor's. I note it because it is the only phrase in the correspondence where a Masonic double meaning is even conceivable. It is also exactly the kind of pun an esoteric hermeneutic would seize on (*Dictionary*, *Secrecy III*; report §0).
+- **Assessment (before the lodge records).** The Masonic reading is possible, but nothing in the letter supports it, and it cannot be preferred to the editor's.
+- **Update (lodge records, `lodge_records.md`).** Crouzet's history of Bayonne Masonry reads the phrase Masonically ("Laffitte appartenait à la branche écossaise"). Bastiat himself was a Rose-Croix, and in Dec. 1821 his chapter sought Scottish Rite cumul. The two readings are now evenly balanced, and a deliberate double meaning to a friend is possible. I note it because it is the only phrase in the correspondence where a Masonic double meaning is even conceivable. It is also exactly the kind of pun an esoteric hermeneutic would seize on (*Dictionary*, *Secrecy III*; report §0).
 
 ---
 
@@ -150,7 +151,7 @@ The "langue morte" (Latin), the institution that penetrates "le secret de toutes
    - His close friends and editors (Coudroy, Fontenay, Paillottet) are silent on it.
    - His deathbed profession explicitly rejects deism.
 
-   The reported membership is not refuted, since the silence may be discretion, but it left no textual trace. The single ambiguous phrase (*secte écossaise*) is best read as the editor reads it.
+   The membership is not refuted. The lodge records (`lodge_records.md`) show it was extensive: Rose-Croix at 20, chapter officer, lodge orator. The silence in his letters and in his editors' notices is therefore discretion. In print, the formation left no Masonic vocabulary, only the Christian-soteriological and fraternal register that the Rose-Croix degree shares with the Church. The phrase *secte écossaise* is now two-sided.
 3. **The Christian-providential and Romantic-humanitarian explanation: strengthened by documented, first-hand sources.**
    - Pope's *Essay on Man* (1824), for "all discord, harmony not understood; all partial evil, universal good".
    - Bernardin (*Paul et Virginie*).
