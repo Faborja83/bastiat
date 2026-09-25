@@ -1,0 +1,379 @@
+# Evidence register — close reading of *Harmonies économiques*, 1st ed. (Bruxelles, Méline, Cans & Cie, 1850)
+
+Line numbers (L…) refer to `analysis/harmonies_1850_reflowed.txt` (paragraph-reflowed from the uploaded `HARMONIES.txt`; OCR errors left as found). Capitals mark emphasis added in the reading notes, not in Bastiat.
+
+## Dedication "À la jeunesse française" (L7–223)
+- L7 semence / principe de vie / germe / sol généreux; L9 tableau/ébauche/esquisse; "ombre et lumière" (painter image, Correggio "Anch'io son pittore")
+- L11 "Aurais-je eu la prétention de révéler le plan de la Providence ... Non certes" — DISCLAIMS revelation
+- L23 molecules of liquid / "niveau général" (hydrostatic; Masonic 'niveau' resonance?)
+- L63 socialists: "Entre la liberté et l'harmonie"; L65 "Jérusalem nouvelle" mocking socialists' millenarianism
+- L75 KEY: socialism "comme l'astrologie et l'alchimie, procède par l'imagination"; économie "comme l'astronomie et la chimie... par l'observation"; L81 "astronome qui observe / astrologue qui imagine: abîme infranchissable"; "de la même communion" (religious word for scientific community)
+- L99 "dons que Dieu avait prodigués gratuitement à sa créature" — gratuité = divine gift
+- L107 "révélateurs de cette triste théorie" (ironic, of Ricardo/Malthus)
+- L109 "Dieu a fait du monde social comme du monde matériel une œuvre harmonique" vs "dissonance révoltante"; L111 "théorie des dissonances"; socialists: "puisque la puissance de Dieu a échoué"
+- L115-121: three positions (economists/socialists/CATHOLICS: "abnégation, sacrifice, ascétisme, résignation") all say "lois providentielles précipitent la société vers le mal"; Bastiat denies premise
+- L125 simplicity "pierre de touche de la vérité" ; laws of light, sound, motion
+- L131 "Elle est religieuse ... la mécanique sociale ... révèle la sagesse de Dieu et raconte sa gloire" (Ps 19 physico-theology)
+- L133 "d'après les décrets providentiels ... ordre, harmonie, progrès, le bien, le mieux ... à l'infini"
+- L135 anticipates Voltaire's Pangloss objection "Tout est pour le mieux"
+- L145 KEY mal passage: harmonic laws need not exclude mal; "Il suffit qu'il ait son explication et sa mission, qu'il se serve de limite à lui-même, qu'il se détruise par sa propre action, et que chaque douleur prévienne une douleur plus grande en réprimant sa propre cause"
+- L147-153 free→choose→err→suffer; "point de départ est l'ignorance"; responsibility vs "merveilleux appareil réactif de la solidarité"; "ramener, par la douleur même, dans la voie du bien et de la vérité"
+- L155 "nous lui reconnaissons une mission, dans l'ordre social comme dans l'ordre matériel"
+- L159 mal displaced when institutions interfere (hemisphere analogy: physiological)
+- L167 liberty as sacrificial "victime conduite à l'autel"
+- L169 "seconde partie de ce livre" = causes perturbatrices (NOT in 1st ed.)
+- L183 "Chrétiens de toutes les communions ... dogmes les plus mystérieux" — ecumenical address
+- L201 "Hommes de spoliation" excluded; L203 "harmonie universelle" ; defect of harmony = defect of liberty
+- L219 "Harmonie qui n'exclut pas le mal..."
+- L221 CREDO: "Je crois" (opens Christian symbol) — "non d'une foi soumise et aveugle, car il ne s'agit pas du mystérieux domaine de la révélation, mais d'une foi scientifique et raisonnée"; "celui qui a arrangé le monde matériel"; "agents libres aussi bien que des molécules inertes"; "tout dans la société est cause de perfectionnement et de progrès, même ce qui la blesse"; "le mal aboutit au bien et le provoque, tandis que le bien ne peut aboutir au mal"; "approximation constante vers un commun niveau physique, intellectuel et moral ... élévation progressive et indéfinie de ce niveau"
+## Ch I Organisation naturelle / artificielle (L225-)
+- L229 social mechanism like celestial mechanism & human body; L235 Rousseau's legislator giving matter "sentiment et volonté, mouvement et vie"
+- L239 Rousseau "beaucoup de philosophie pour observer les faits trop près de nous"
+- L241ff menuisier de village example; L255 church "monument prodigieux", the book; L257 "aplani, nivelé le sol"
+- L275 reader "met en mouvement des hommes de tous pays... générations éteintes, générations qui ne sont pas nées" ; L277 "naturelle et savante organisation qui agit pour ainsi dire à notre insu" (hidden order)
+- L285 rouages/ressorts/mobiles = men (mechanism)
+- L309 King Alphonso ("conseils de Dieu... monde planétaire"), Descartes dés et ficelles, Xerxès
+- L317 mocks "science universelle"
+- L323-327 mocks reformer-prophet narrative: "malentendu entre Dieu et l'humanité... depuis Adam... voilà pourquoi le mal s'est introduit dans le monde" -> "cinq ou six ADEPTES"  (mocks a fall/reintegration narrative)
+- L339 reformer "possède un SECRET SOCIAL" -> temptation of imposture, "fraudes pieuses", Rousseau's legislator makes gods speak (anti-secrecy / anti-revelation)
+- L341-345 Fourier's Genèse before Deutéronome; Saint-Simon apostolic; néo-christianisme; "ton d'afféterie mystique"; "n'est pas prophète qui veut. On a beau se proclamer dieu"
+- L347 Contrat social "oracle de l'avenir"; L359-361, 397 Rousseau legislator = mécanicien; humanity "vile matière", "pétrit", "changer la nature humaine", "donner le mouvement et la volonté, le sentiment et la vie" -> Bastiat REJECTS operator-transmutation of human nature (Faivre #4 attributed to opponents)
+- L403 association "fort imparfaite d'abord, parce que l'homme est imparfait, mais se perfectionnant avec lui" (1st ed.); "la société est dans l'enfance"
+- L405 agent "intelligent, moral, doué de libre arbitre et perfectible"
+- L407 error dissipates "au flambeau de l'économie politique"
+- L413 KEY: Newton uncovering head; social mechanics "où vit aussi la pensée universelle, MENS AGITAT MOLEM [Aen. VI.727, anima mundi], ... chaque atome est un être animé, pensant... la LIBERTÉ" -> closest to Faivre #2 living nature/world soul, but atoms=free wills
+- L425 socialists "mettent le mal au CREUSET" (crucible), "histoire naturelle de l'homme dans la clinique", defy God re theodicy
+- L427 Océana, Atlantide, Salente, Icarie, Utopie, Phalanstère; utopist "s'installe dans son rôle de Providence"; L429 humanity "se laisser transformer"
+- L435 socialists as "révélateurs, prophètes, pétris d'un autre limon... phraséologie mystique... qu'ils prouvent leur mission"
+- L441 man "tel qu'il a plu à Dieu de le faire... perfectible... principe sympathique"; "l'œuvre de Dieu sera justifiée" (theodicy); Newton; "Coeli enarrant gloriam Dei"
+- L447 "j'aperçois... de sublimes et consolantes harmonies. Ce que je vois ou crois voir"; "pensée de concorde et de fraternité"
+- L451 program: "intérêt personnel, propriété, communauté, liberté, égalité, responsabilité, solidarité, fraternité, unité"; "à la clarté de ce flambeau"; "principe vrai, simple et fécond"
+- L453 "le cristal s'élabore goutte à goutte dans le silence et l'obscurité"
+## Ch II Besoins, efforts, satisfactions
+- L457 economics = "froid domaine de l'intérêt personnel"; mocks Lamartine w/ logarithms
+- L459 KEY: "l'économie politique a aussi sa poésie... partout où il y a ordre et harmonie... dans les résultats, non dans la démonstration. Elle se RÉVÈLE, on ne la crée pas. KÉPLER ne s'est pas donné pour poète" -> Kepler side of Kepler-Fludd (DGWE Music III)
+- L461 avoid "nuageuses régions de la métaphysique"; L463 "L'âme (ou pour ne pas engager la question de spiritualité)"
+- L471 "nous n'avons guère ici-bas que le choix des MAUX" (mal = pain)
+- L479 utilities "accordées gratuitement par la Providence" vs "achetées par un effort"
+- L483-485 substitute gratuitous for onerous utility = principle of progress
+- L489 progress & deception rooted in "don merveilleux... le LIBRE ARBITRE"
+- L495 Bonald
+- L497 KEY: "Pour que l'harmonie fût sans dissonance, il faudrait ou que l'homme n'eût pas de libre arbitre, ou qu'il fût infaillible... toute erreur menant à une déception et tout vice à un châtiment, les dissonances tendent incessamment à disparaître"
+- L505 "tout se lie, tout s'enchaîne, toutes les vérités se fondent les unes dans les autres... pour une intelligence infinie il n'y aurait qu'une seule vérité" (unity of sciences — Leibnizian/encyclopedic; cf. DGWE Illuminism §8 'universal science' but no concordance of TRADITIONS)
+- L513/557 "deux vérités ne sauraient être antagoniques... les sciences se vérifient l'une par l'autre"; science of wealth "en parfaite harmonie avec toutes les autres"
+- L525 transmission d'efforts, échange de services = principe social
+- L549 KEY value annihilation: "Chaque progrès ANÉANTIT donc de la valeur... substituant de l'utilité gratuite à l'utilité onéreuse, de la richesse naturelle à la richesse sociale... elle prend rang parmi les DONS DE DIEU... portion de valeur successivement anéantie et recueillie sous forme d'utilité gratuite par l'humanité tout entière" ; "tendances communautaires et égalitaires"
+- L555 service gratuit = principe sympathique -> morale (don vs échange)
+## Ch III Des besoins de l'homme
+- L563 puerile to ask "pourquoi Dieu nous y a assujettis"
+- L569 KEY: "il ne nous reste guère que le choix des MAUX"; sensibility "sentinelle avancée"; "La douleur a donc une destination, une mission. On a demandé souvent si l'existence du MAL pouvait se concilier avec la bonté infinie du Créateur, redoutable problème que la philosophie agitera toujours et ne parviendra probablement jamais à résoudre" -> mal = theological evil + pain; Bastiat declines to solve theodicy
+- L573 socialists "prétendre avoir DÉROBÉ LE SECRET DE DIEU et interprété sa volonté présumée en bannissant le mal de dessus la terre" (anti-secret polemic)
+- L575 "si depuis la création un seul homme a souffert... la douleur est entrée dans le plan providentiel"
+- L583 KEY: "la mission de la souffrance est de détruire progressivement ses propres causes, de se circonscrire elle-même dans des limites de plus en plus étroites, et, finalement, d'assurer, en nous la faisant ACHETER ET MÉRITER, la prépondérance du bien et du beau"
+- L593 Molière "le corps, cette guenille"; L597 FÉNELON "spiritualiste jusqu'au quiétisme"
+- L613 moral dissonance: "semences du vice... précieux germes de la vertu"
+- L635-639 échelle/degré; habit = "roue à rochet", humanity "toujours poussée vers des régions de plus en plus élevées"
+- L649 KEY: vs Rousseau: "Ceux qui pensent qu'au contraire la PERFECTION N'EST PAS AU COMMENCEMENT MAIS À LA FIN de l'évolution humaine" -> rejects primordial-perfection/fall schema (core of Martinist réintégration)
+- L653 "Rousseau était convaincu que Dieu, la nature et l'humanité avaient tort"
+- L655 man "nature à la fois corporelle et immatérielle"; désir "source intarissable"
+- L667 "l'équilibre entre les moyens et la fin étant la première condition de toute harmonie"
+- L679 KEY (microcosm-like): "Ce qui est vrai de l'homme est vrai de la société. L'homme isolé... tous les phénomènes économiques s'accomplissent en lui, et il est comme un RÉSUMÉ de la société. De même l'humanité... est un HOMME IMMENSE, collectif, multiple" (cf. Pascal préface Traité du vide; Swedenborg Maximus Homo; Saint-Simonian/Comte Grand Être)
+- L691 "indéfinis et non point infinis"; asymptote note
+- L697 souffrance "a une mission... désir aiguillon"
+- L699 "la nature et le travail, les DONS DE DIEU et les fruits de nos efforts"
+- L725-727 utility communicated by nature+labour; labour in inverse ratio to nature (Art/Nature cooperation)
+- L733 geometry certainty "ligne droite"
+- L751 "les éléments, les atomes... sont des dons gratuits de la nature"; L757 redefines "MATIÈRES PREMIÈRES" = state of materials "antérieurement à toute action humaine" (cf. alchemical prima materia — but standard econ term)
+- L759 "dons gratuits de la nature... n'ont pas de valeur"
+- L761 natural forces "dons gratuits de la Providence... sans valeur... C'est la pensée dominante de cet écrit"
+- L763 progress = substitute gratuitous for onerous concourse; "nature contrainte à un concours plus efficace"
+- L769-771 (Say) man creates no matter; "entre matière et valeur il n'y a pas de rapports possibles"; value is in service, not matter (dematerialized value)
+- L779 economics cannot make its vocabulary "comme la chimie"
+- L811 KEY: equality "comme la richesse, la liberté, la fraternité, l'unité, une FIN et non un point de départ... L'humanité ne s'en éloigne pas, elle y tend"; "Rousseau et ses ADEPTES"
+- L813 "consommation" etymologically = "fin, accomplissement"
+- L815 satisfaction = "pierre de touche du progrès"
+## Ch IV Échange
+- L827 isolation = death; social state = state of nature (anti-Rousseau, Montaigne)
+- L843 KEY "équilibre des besoins et des facultés... m'a toujours saisi d'admiration pour le PLAN PROVIDENTIEL"; isolated needs>faculties, social faculties>needs; "carrière de perfectibilité... nul ne saurait assigner de limites"
+- L851 proof "par le raisonnement et par l'analogie"; triangle tétragone
+- L857 KEY desire-catalogue: "approfondir les SECRETS DE LA NATURE, dompter les animaux, ENCHAÎNER LES ÉLÉMENTS, pénétrer dans les ENTRAILLES DE LA TERRE... supprimer le temps et l'espace... régner sur ses passions, CONQUÉRIR L'IMMORTALITÉ, SE CONFONDRE AVEC SON CRÉATEUR... ses désirs se dilatent sans fin dans l'infini"; "intelligence... inquiète" (Augustine)
+- L859 KEY: man "transmet de génération en génération ses travaux, ses pensées et les trésors de son expérience... capable d'une perfectibilité dont la CHAÎNE incommensurable semble attachée AU DELÀ MÊME DE CE MONDE" (catena aurea / great chain)
+- L863 KEY anti-metaphor: value in matter "par pure MÉTONYMIE... la MÉTAPHORE a fait dévier la science"
+- L867 man above beasts: "sentiment religieux" (Creator), équité, moralité, + ÉCHANGE
+- L873-877 Robinson, "île du Désespoir"; L879 "si le bonheur est dans la privation, la perfection est dans le néant"
+- L893-895 KEY anti-occult-qualities: Molière virtus dormitiva vs Condillac; "l'échange a-t-il en lui-même une VERTU MYSTÉRIEUSE... inaccessible à toute explication?" -> rejects
+- L911 society = "la plus belle, la plus vaste des associations... mécanisme admirable... chacun y entre et en sort"
+- L913 habit hides phenomena (Rousseau quote)
+- L923 "sucs cachés dans le sol"; L927 magnetism/compass
+- L939 KEY: "La NATURE devient un ESCLAVE qu'il ne faut ni nourrir, ni vêtir... qui ne coûte rien ni à notre bourse ni à notre conscience"; footnote: this slave will "affranchir tous les autres" (harmony) -> instrumental nature, anti-'living nature'
+- L945 Destutt de Tracy on lumières accumulating across generations
+- L949 exchange: "admirable communauté... chacun participe aux qualités distinctives de ses semblables"
+- L965-975 troc; "troc circulaire" Paul/Pierre/Jacques; village (curé, bedeau)
+- L993-995 money/credit: services to "un inconnu par delà les océans et par delà les siècles"; "merveilleux mécanismes, éclos de la civilisation, la perfectionnant et se perfectionnant eux-mêmes avec elle"; "selon la loi de justice"
+- L999 man chooses "le moindre de deux maux"
+- L1001 "nivellement"; decree forbidding lamps at noon
+- L1003 population density: "Là où Malthus avait vu discordance... harmonie"
+- L1051 "l'ingénieuse nature peut avoir arrangé l'ordre social de telle sorte que ces mêmes actes, destitués de moralité dans leur mobile, aboutissent néanmoins à des résultats moraux" (providential conversion of motive)
+- L1053 KEY: "Comme il y a deux forces dans le monde matériel, l'une qui va de la CIRCONFÉRENCE AU CENTRE, l'autre du centre à la circonférence, il y a aussi deux principes dans le monde social: l'intérêt privé et la SYMPATHIE" (Newtonian centripetal/centrifugal; polarity) ; "que nos deux énergies natives soient distinctes ou confondues... elles se combinent et concourent"
+- L1063-1065 "Dans l'isolement les prospérités se nuisent. Par l'échange les prospérités s'entr'aident"
+- L1073 KEY "De toutes les harmonies... la plus importante, la plus belle... Elle implique et résume toutes les autres... Heureux si elle jaillit de l'esprit de ce livre... déterminer le lecteur à s'élever PAR SES PROPRES EFFORTS à la certitude"
+- L1075 "que la lumière se fasse"
+- L1079-1081 "Le profit de l'un est le dommage de l'autre" (Montaigne) vs "le profit de l'un est le profit de l'autre"
+- L1085 KEY transmission-to-youth: "il s'en rencontrera un parmi eux qui arrivera enfin à la démonstration rigoureuse de cette proposition: Le bien de chacun favorise le bien de tous, comme le bien de tous favorise le bien de chacun... celui-là aura résolu le problème social; celui-là sera le BIENFAITEUR DU GENRE HUMAIN"
+- L1099 "le mal (... qui n'est pas la conséquence nécessaire de notre INFIRMITÉ NATIVE)" — distinguishes natural vs perturbation-caused evil
+- L1103 Catholic pays rabbi / Jew pays priest; imagined Feb-1848 proclamation: "chacun de vous est responsable envers lui-même de sa propre existence et de son PERFECTIONNEMENT... le mobile... est en vous... épurez vos sentiments... accomplissez vos destinées"
+- L1113 KEY: 1848 "Faciamus experimentum in corpore vili... assimilation de l'homme à la matière inerte... expériences sociales avec des hommes comme on fait des EXPÉRIENCES CHIMIQUES avec des alcalis et des acides... un représentant fouriériste... pour MANIPULER sa société modèle... un autre représentant égalitaire offrit aussi sa RECETTE" -> socialists cast as laboratory operators on human matter
+- L1129 "il n'y a que deux choses qui puissent sauver la société: la justice et la lumière"; hands "pleines mais pures"
+- L1133 blames Roman classical education
+- L1137 "justice légale, charité privée"
+## Ch V De la valeur
+- L1171 scholastic "forme dans la substance ou dans l'accident?"; "Molière de carrefour"
+- L1175 KEY telos: "tous les principes... concourent vers un grand résultat final que l'humanité n'atteindra jamais, à cause de son IMPERFECTION NATIVE, mais dont elle approchera toujours, en vertu de sa PERFECTIBILITÉ indomptable... le rapprochement indéfini de toutes les classes vers un NIVEAU qui s'élève toujours... l'égalisation des individus dans l'amélioration générale"
+- L1181-1185 utility becomes common "en sortant progressivement du domaine de l'appropriation individuelle"; value decreases; demonstration "doit satisfaire et concilier toutes les écoles... toutes ont entrevu la vérité, mais la vérité PARTIELLE" (eclectic/concordance-like, but among schools not traditions)
+- L1187-1189 "Économistes... propriété des valeurs... inébranlable"; "Communistes, vous rêvez la communauté, VOUS L'AVEZ"
+- L1191-1193 builders' imagery: "architectes qui disputent sur un monument dont chacun n'a observé qu'une face... faire le tour de l'édifice"; "cet ÉDIFICE social... ses deux PIERRES ANGULAIRES: utilité, valeur"; (L1265 "PIERRE D'ATTENTE")
+- L1197 Newton / "harmonies de la mécanique céleste"; "Dieu n'a pas déployé dans la mécanique sociale moins de bonté touchante, d'admirable simplicité et de magnifique splendeur"
+- L1199 "Je n'ai pas envie de m'engager sur le terrain de l'idéologie"
+- L1217-1219 KEY origin-myth: "la valeur, c'est le rapport de deux services échangés. L'idée de valeur EST ENTRÉE DANS LE MONDE la première fois qu'un homme ayant dit à SON FRÈRE: Fais ceci pour moi, je ferai cela pour toi" (cf. Rom 5:12 'sin entered the world' — here value enters by fraternal convention)
+- L1223-1233 Florian fable L'Aveugle et le Paralytique; "Nous sommes tous aveugles ou perclus en quelques points"
+- L1237 KEY: "TOUT EST DANS TOUT, et il n'y a rien qu'on ne puisse faire entrer dans un mot à force d'en étendre le sens" — maxim invoked as WARNING against over-generalisation; each economist 'parrain' of one circumstance
+- L1245 "Je montre ce que je vois, et non ce que les autres ont vu"
+- L1255 "aucun RÉACTIF n'en ferait sortir un élément nouveau appelé valeur"; L1275 "La valeur... s'est-elle matérialisée, pour aller s'incorporer dans l'eau et y ajouter un nouvel ÉLÉMENT CHIMIQUE?... ce sont là des MÉTONYMIES; les MÉTAPHORES n'affectent pas la réalité des faits"
+- L1281 diamond debate; error "Dieu met de la valeur dans ses œuvres et qu'elle est matérielle"
+- L1315 diamond: "la nature l'élabore depuis le commencement des siècles, autant elle en fait pour la goutte de ROSÉE" (mineral gestation; dew — alchemical symbols but here natural-history commonplace)
+- L1323 "jetez ce livre au feu"
+- L1331 KEY: "Gaz, SELS, électricité, force végétale... réunir, aider, combiner, transporter, en me servant de ce GRAND LABORATOIRE qu'on nomme la terre, et dans lequel s'accomplissent des MYSTÈRES dont à peine la science humaine a SOULEVÉ LE VOILE" (Isis-veil topos; Say)
+- L1337 "Il n'y en a pas une [obole] qui ira rémunérer DIEU OU LA NATURE"
+- L1339 landowner "celui qui détient le laboratoire"
+- L1365 "l'action de la nature ne crée pas la valeur, pas plus que l'action de l'homme ne crée la matière"; "dons gratuits de la Providence"
+- L1383-1389 Malibran/Rachel: artists' value; "la loi économique... PLANE" over transactions
+- L1393-1401 sympathetic portrait of old priest-missionary; "Nihil humani a me alienum puto"; sympathy lowers value not utility
+- L1409 KEY anti-talisman: "fourbes... envoyés du ciel... ouvrent à leur gré les portes du paradis ou de l'enfer... petites IMAGES auxquelles nous avons communiqué la VERTU de rendre éternellement heureux ceux qui les porteront sur eux" -> false value; will disappear with civilisation (and L1503 "une BULLE D'INDULGENCE plénière")
+- L1411 value "fondée sur un principe clair, simple, absolu"; menuisier, MAÇON...
+- L1423 California gold: nature gives ductility, weight, brilliance, "mais il y a une chose que la nature ne lui a pas donnée... la valeur" (no 'value' in gold — anti-chrysopoeia in effect)
+- L1427 "qu'est-ce que la science, sinon l'expérience raisonnée? la théorie... l'exposition méthodique de l'universelle pratique"
+- L1433 Bonald again; value not a material quality like "impénétrabilité, pesanteur"
+- L1455 "Va-t-elle à Dieu? nul ne le soutient, et l'on n'a jamais vu DIEU RÉCLAMER SON SALAIRE"
+- L1463 Proudhon "Qui a fait la terre? Dieu. En ce cas, propriétaire, retire-toi"
+- L1465 "je briserai cette arme dans leurs mains"; nature's action "gratuite et commune par essence"; products passed with natural qualities "PAR-DESSUS LE MARCHÉ"
+- L1467 KEY: "la plus touchante DISPENSATION de la Providence envers sa créature, le phénomène de la COMMUNAUTÉ PROGRESSIVE" (dispensatio = oikonomia)
+- L1469 nature's action "gratuite et commune par DESTINATION PROVIDENTIELLE"; "le domaine de la gratuité et de la communauté se DILATE sans cesse"
+- L1471 KEY: "Dans toutes les religions on remercie Dieu de ses bienfaits; le père de famille BÉNIT LE PAIN qu'il rompt et distribue à ses enfants; touchant usage que la raison ne justifierait pas s'il n'y avait rien de GRATUIT dans les libéralités de la Providence" (gratuité = grace)
+- L1477 note: "Qui donc a l'audace de se faire payer cette portion de valeur extra-humaine?"
+- L1481 fraises: consumer makes value disappear
+- L1503 examples: diamond, prima donna, banker's pen, Raphaël's brush, "une bulle d'indulgence plénière", Queen of England
+- L1509 competition proportions values to efforts "ou les récompenses aux mérites... une des belles harmonies"
+- L1511 Say made value "une qualité morale"; Bastiat: "c'est simplement un RAPPORT"
+- L1513 Say: savants on each other's shoulders
+- L1519 Say failed to "déchirer le VOILE funeste" of English economists on property
+- L1545 Say: earth = "laboratoire où s'accomplissent des opérations chimiques"
+- L1549 Proudhon asks landowner for his "procuration" from the soil
+- L1559 "La propriété c'est le vol"
+- L1569 tools "anéantissent [la valeur] de plus en plus"; printing: "Phénomène admirable et trop méconnu!"
+- L1573 *** KEY FOR 'MAL': "L'utilité est le BIEN qui fait cesser le besoin par la satisfaction. LA VALEUR EST LE MAL, car elle naît de l'OBSTACLE qui s'interpose entre le besoin et la satisfaction; sans ces obstacles... l'utilité serait infinie, gratuite et commune sans condition, et la notion de valeur NE SE SERAIT JAMAIS INTRODUITE DANS CE MONDE" (Rom 5:12 echo) ; L1575 "Plus les obstacles s'abaissent... plus l'utilité S'APPROCHE de la gratuité et de la communauté ABSOLUES"; "propriété légitime de la valeur... communauté progressive de l'utilité"
+  => links value-theory to final sentence: harmony = GRADUAL REDUCTION OF MAL = progressive annihilation of value toward gratuity
+- L1577-1579 everything useful "à notre insu"; "Si la LUNE était placée plus haut ou plus bas... Sans cette ÉTOILE qui brille au firmament pendant que j'écris, peut-être le genre humain ne pourrait-il exister" (cosmic interdependence, but physical-causal)
+- L1585 value transmitted "d'un hémisphère ou d'une génération à une autre"; utility "par-dessus le marché"; L1587 "utilité... par la DISPENSATION DE LA PROVIDENCE, ou la puissance de l'ART"
+- L1605-1607 sunlight (no value) vs candle (value)
+- L1639 "Je leur donne raison à tous, parce que tous ont aperçu la vérité par un côté... l'erreur était sur le revers de la médaille" (eclectic synthesis)
+- L1641 measure of value = "quadrature de l'économie politique"; absolute measure = "chimère"
+- L1659 standard = "le travail... tel qu'il s'est manifesté au POINT DE DÉPART DE L'HUMANITÉ, le travail du simple journalier"
+- L1665 criterion: natural order "perfectible et harmonique" if brute-labour class shrinks and its real reward grows
+## Ch VI Richesse
+- L1669 two things: "ce qu'a fait la nature et ce que fait l'homme, ce qui est gratuit et ce qui est onéreux, LE DON DE DIEU ET LE SERVICE HUMAIN, l'utilité et la valeur"
+- L1685 "nous sommes riches autant de la valeur ANÉANTIE par le progrès que de celle qui lui survit encore"
+- L1691 "économie politique à rebours où le but... est perpétuellement confondu avec l'obstacle"
+- L1693 *** KEY: value "est le SIGNE, le SYMPTÔME, le TÉMOIN, la PREUVE de notre INFIRMITÉ NATIVE. Elle nous rappelle incessamment cet ARRÊT PRONONCÉ À L'ORIGINE: Tu mangeras ton pain à la sueur de ton front [Gen 3:19]. Pour l'ÊTRE TOUT-PUISSANT ces mots: effort, service, et par conséquent valeur n'existent pas... Il faut que la sueur tombe de notre front, ou pour nous ou pour ceux qui l'ont répandue à notre profit"
+- L1703 *** "S'il n'y avait jamais d'obstacles... il n'y aurait ni efforts, ni service, ni valeurs, NON PLUS QU'IL N'Y EN A POUR DIEU, et... l'humanité serait, COMME DIEU, en possession de la RICHESSE INFINIE"; L1705 "L'infini n'est sous aucun rapport l'attribut de l'humanité... elle GRAVITE vers la richesse progressive ou vers la progressive pauvreté"
+- L1709 value-as-wealth = "la GLORIFICATION DE L'OBSTACLE"; everyone lives on an obstacle (doctor/disease, lawyer/iniquity)
+- L1715-1735 Saint-Chamans: "Bénissons les obstacles"; "Trouvez le SECRET de faire sortir de la terre des sources de vin"; praise of fire of London (Petty)
+- L1739 Sismondi: "un VOILE qu'il ne peut percer s'interpose entre lui et la vérité"; ends "si l'obstacle au bien-être est le bien-être, c'est-à-dire SI LE MAL EST LE BIEN"
+- L1741-1749 *** PROUDHON Contradictions économiques: "tout est à la fois vrai et faux, bon et mauvais... la contradiction... dans l'essence même des choses... la loi intime des êtres"; "Dieu, antinomie; liberté, antinomie..."; anecdote paradise w/o disputes -> Bastiat: "les contradictions... sont dans les fausses théories et pas du tout... dans la nature même du phénomène" (REJECTS coincidentia oppositorum / contradiction-in-being)
+- L1751 "confondre la valeur avec l'utilité, c'est-à-dire LE MAL AVEC LE BIEN (car l'utilité, c'est le résultat désiré, et la valeur vient de l'obstacle...)"
+- L1765 "pour l'homme l'utilité c'est le beau côté, la valeur c'est le triste REVERS DE LA MÉDAILLE... La valeur atteste notre INFIRMITÉ NATIVE, naît de l'obstacle et lui est proportionnelle"
+- L1767 "En vertu de la PERFECTIBILITÉ humaine, l'utilité gratuite tend à se substituer de plus en plus à l'utilité onéreuse exprimée par le mot valeur"
+  => THEOLOGICAL STRUCTURE: Gen 3 curse -> value=mal=obstacle -> progress reduces value -> asymptote toward God-like gratuitous infinite wealth. (cf. DGWE Romanticism: 'historicized reintegration', 'rationalist perfectibilitarianism substitutes for esoteric telos')
+- L1781 note "perpétuelle et maudite confusion entre la valeur et l'utilité"; L1783 confusion leads to "prendre le mal pour le bien"
+- L1785 KEY "lois de cette ASSOCIATION ENTRE L'HOMME ET LA NATURE... l'utilité gratuite se substituant... la richesse naturelle, c'est-à-dire gratuite et commune, venant prendre la place de la richesse personnelle et appropriée. Eh quoi! on exclurait de l'économie politique ce qui constitue sa RELIGIEUSE HARMONIE!"
+- L1787 natural agents "sortis de cette inertie relative... Ils ont... ANÉANTI DE LA VALEUR... Toute cette valeur anéantie est PASSÉE DU DOMAINE DE LA PROPRIÉTÉ DANS CELUI DE LA COMMUNAUTÉ"; progress "tant en hauteur qu'en surface... tant en bien-être qu'en égalité"
+- L1795 "Les hommes rendent des services, la nature rend des services"
+## Ch VII Capital
+- L1803 isolated man: "Toute l'évolution économique s'accomplirait en lui" (microcosm-method)
+- L1819 "il faut des instruments pour faire des instruments; il faut du fer pour battre le fer... vers une difficulté première qui semble insoluble"
+- L1827 capital "ASSERVIRA de forces naturelles"
+- L1835 "grande illusion de croire que le capital soit une chose existante par elle-même"
+- L1837 "c'est toujours le troc embryonnaire... sans cesser d'être lui-même"
+- L1843-1845 "chose admirable... tout service est ou peut devenir un capital"; use services "qui ne seront rendus qu'au XXe siècle"
+- L1847 "belles harmonies de la mécanique sociale INSTITUÉE PAR DIEU"; king of Aragon advising Providence; "Ce n'est pas Newton qui eût conçu cette pensée impie"
+- L1849 interest "rattache, lie et SOLIDARISE tous les lieux et tous les temps" (vs Proudhon)
+- L1873 sectarians: "Depuis le commencement du monde, tous les hommes se trompent hors moi. Omnes, ego non"; "novateurs fanatiques"
+- L1875 Laplace
+- L1879 dilemma "périr en restant juste, ou progresser par l'injustice"
+- L1919 capital depicted as "VAMPIRE"; "Vires acquirit eundo"
+- L1923-1929 natural forces "contraintes à agir"; capital "accumulation de valeurs... mission spéciale de faire coopérer la nature"
+- L1933 paradox: pay interest "le plus joyeusement"
+- L1941 KEY GRACE: "la GRATUITÉ DES DONS DE DIEU lui a été complètement réservée; que ces dons lui sont même PRODIGUÉS avec une libéralité QU'IL NE DOIT PAS À SON PROPRE MÉRITE, mais au beau mécanisme de l'ordre social naturel"
+- L1943 reformers: "votre manque de foi en la Providence et votre foi en vous-mêmes; votre ignorance et votre orgueil"
+- L1949 capital "travaille depuis le commencement à affranchir les hommes du joug de l'ignorance, du besoin, du despotisme... river une TRIPLE CHAÎNE" (triad; cf. Masonic 'three enemies' ignorance/fanaticism/ambition — only partial overlap)
+- L1961 "la Providence, dans sa justice et sa bonté, a réservé... une plus belle part au travail... à celui qui verse actuellement la SUEUR DE SON FRONT qu'à celui qui vit sur la sueur de ses pères"; "comment concevoir le MAL PROGRESSIF dans l'ensemble résultant du BIEN PROGRESSIF dans les fractions"
+- L1977 "grande, admirable, consolante, nécessaire et inflexible loi du capital"
+- L1989 "les sueurs de la génération présente se mêlent aux sueurs des générations passées"; "sagesse des lois providentielles"
+- L1999 capital lets "principe intelligent" predominate; "jouissances plus élevées, plus délicates, plus PURES, plus artistiques, plus SPIRITUALISTES" (spiritualisation via material progress)
+- L2001 capital "ennoblit... soulage... ÉPURE... DOMPTE [la nature]... cachet de toutes les grandes lois providentielles: l'harmonie"
+## Ch VIII Propriété, Communauté
+- L2007 KEY: "une communauté réelle, essentielle, progressive, résultat providentiel... dont l'évidente destination est de conduire, COMME DES FRÈRES, tous les hommes de L'ÉGALITÉ PRIMITIVE, celle du dénûment et de l'ignorance, vers L'ÉGALITÉ FINALE dans la possession du bien-être et de la VÉRITÉ"
+- L2009 "l'ABSORPTION DE L'UTOPIE DANS LA SCIENCE, et... réconcilier les écoles antagoniques dans une COMMUNE FOI"
+- L2011 socialists: owners "placés entre les dons de Dieu et les pauvres... intercepté... les bienfaits que le PÈRE COMMUN avait prodigués à tous ses enfants"; Bastiat: "Non, vous n'avez pas intercepté les dons de Dieu"; self-interest "instrument d'une Providence infiniment prévoyante et sage pour élargir sans cesse... le domaine de la communauté"
+- L2013 *** KEY SOTERIOLOGY: "le point de départ du genre humain est une entière communauté, une parfaite égalité de misère, de dénûment et d'ignorance. IL SE RACHÈTE À LA SUEUR DE SON FRONT, et se dirige vers une autre communauté, celle des dons de Dieu successivement obtenus avec de moindres efforts, vers une autre égalité, celle du bien-être, des LUMIÈRES et de la dignité morale... cette route de PERFECTIBILITÉ... AVANT-GARDE... Il ne jaillit pas une ÉTINCELLE dans une intelligence qui n'éclaire à quelque degré votre intelligence... pas une propriété dont la MISSION ne soit d'élargir... le domaine de la communauté. L'ordre social naturel a été si ARTISTEMENT arrangé par le DIVIN OUVRIER que LES PLUS AVANCÉS DANS LA VOIE DE LA RÉDEMPTION vous tendent une main secourable, volontairement ou À LEUR INSU... aucun homme ne peut travailler honnêtement pour lui-même sans travailler en même temps pour tous... homicide... suicide. L'humanité est une CHAÎNE admirable où s'accomplit ce MIRACLE, que les premiers chaînons communiquent à tous les autres un mouvement progressif de plus en plus rapide jusqu'au dernier" (NB: 'rédemption' IS in 1st ed.)
+- L2015 KEY: socialists' communauté "comme devant étendre le ROYAUME DE DIEU SUR LA TERRE"; "Dieu lui-même y a songé... confié la réalisation de ses desseins... à l'intérêt personnel"; "le mécanisme social tel qu'il est sorti des mains du GRAND MÉCANICIEN... au lieu de prétendre refaire l'œuvre divine, vous vous contenterez de la BÉNIR"
+- L2017 "cœurs fidèles à la démocratie"; starting point "la misère, l'ignorance, le règne de la force brutale"; "anthropophagie, guerre, esclavage..."; interests' "GRAVITATION naturelle"; "libre échange de services, justice, propriété, liberté, sécurité, c'est toujours la même idée sous divers aspects"
+- L2019 "croisade"; "conspiration pratique" against property "depuis le commencement du monde"; "béliers... la COLONNE chancelante"
+- L2023 "bornes sacrées"; service "en suspension... équilibre"
+- L2025 "la spoliation n'est autre chose que la limite de la propriété, comme la propriété est la limite de la communauté"
+- L2047 "l'absence complète de l'obstacle entraîne la gratuité et la communauté PARFAITES"
+- L2051-2053 obstacle diminishes -> effort -> service -> value -> property; gratuity & communauté gain what property loses
+- L2055 *** PARADOX: "la MISSION DE LA PROPRIÉTÉ ou plutôt de l'esprit de propriété EST DE RÉALISER DE PLUS EN PLUS LA COMMUNAUTÉ"
+- L2057 "point de départ du genre humain étant le maximum de misère"
+- L2059 Proudhon's "dogme fondamental... mutualité des services... sa Foi"
+- L2065 KEY anti-coincidentia: property/spoliation opposed "qu'on ne peut pas plus identifier qu'on ne peut identifier le oui avec le non, LA LUMIÈRE AVEC LES TÉNÈBRES, LE BIEN AVEC LE MAL, l'harmonie avec la discordance"
+- L2079 appraisers "n'estiment pas... LA PEINE QUE DIEU A PRISE, mais celle que l'acheteur aurait à prendre"; Say vs Fourier books
+- L2081 "les propriétés ne sont elles-mêmes que des RAPPORTS"
+- L2085 progress consists in "TRANSFORMER l'utilité onéreuse en utilité gratuite... efface peu à peu l'inégalité"
+- L2089 KEY: "l'accoutumance, ce VOILE étendu sur les yeux du VULGAIRE, et dont ne parvient pas toujours à se délivrer l'observateur attentif... le plus merveilleux des phénomènes économiques: la richesse réelle TOMBANT INCESSAMMENT DU DOMAINE DE LA PROPRIÉTÉ DANS CELUI DE LA COMMUNAUTÉ"; L2091 "cette DÉMOCRATIQUE évolution"
+- L2109 Diogène/Alexandre; L2119 "le lendemain du DÉLUGE"; blé 600->15
+- L2135 "étonnante révolution... bien des siècles"; L2139 "les hommes sont égaux devant la valeur anéantie"
+- L2149 "La propriété recule toujours... et la communauté avance sans cesse" (vs Proudhon: property not destined to perish)
+- L2175 property = "un PIONNIER qui accomplit son œuvre dans un CERCLE et passe dans un autre"; to vanish would require "que nous fussions tous ÉGAUX AUX DIEUX. Alors... tout serait gratuit, tout serait commun... rien de ce qui constate notre NATIVE INFIRMITÉ n'aurait sa raison d'être"
+- L2179 *** "l'homme a beau s'élever, il est toujours aussi loin de l'OMNIPOTENCE. Que sont les DEGRÉS qu'il parcourt sur l'ÉCHELLE DE L'INFINI? Ce qui caractérise la Divinité... c'est qu'entre sa volonté et l'accomplissement de sa volonté il n'y a pas d'obstacle: FIAT LUX ET LUX FACTA EST. Encore est-ce son impuissance à exprimer ce qui est étranger à l'humaine nature qui a réduit MOÏSE à supposer, entre la volonté divine et la lumière, L'OBSTACLE D'UN MOT À PRONONCER" (Word = anthropomorphic accommodation — opposite of Kabbalistic linguistic ontology); "La propriété existera donc jusqu'à LA CONSOMMATION DES TEMPS"
+- L2185 "Le monde est un vaste ATELIER où la Providence a prodigué des matériaux et des forces"
+- L2203 morality lies in consumer's desire; opium/India; Robinson feathers
+- L2213-2215 Rousseau's enclosure; "une BORNE... est un signe de propriété"
+- L2221 "La nature travaille, DE TOUTE ÉTERNITÉ peut-être, à mettre dans l'eau de la source ces qualités... don gratuit de Dieu"
+- L2225 Cabet's "agneaux icariens"
+- L2239 "élaborations MYSTÉRIEUSES et inconnues par lesquelles la nature a communiqué de l'utilité aux choses"; "la communauté se concilie harmonieusement avec la propriété, les dons de Dieu restant dans le domaine de l'une, et les services humains formant seuls le... domaine de l'autre"
+- L2243 property's "rôle démocratique, progressif et égalitaire... MISSION SPÉCIALE d'agrandir sans cesse le cercle de la communauté... bien autrement ingénieuse que Platon, Morus, FÉNELON ou M. Cabet"
+- L2245 "Tous les ENFANTS DE DIEU sont traités de même... égaux devant la gravitation... l'air... la lumière... l'eau"; names for fonds commun (Say, Proudhon, Considérant, Saint-Chamans)
+- L2247 math rule: adding equal numbers weakens relative inequality
+- L2257 property "aiguillon qui force l'intelligence humaine à tirer de l'inertie des FORCES NATURELLES LATENTES"; "fait incessamment TOMBER le domaine approprié dans le domaine commun"
+- L2259 "élevant sans cesse le NIVEAU humain, réalisant de plus en plus la communauté, et avec elle l'égalité, au sein de LA GRANDE FAMILLE"
+- L2267 "si chacun s'occupe de soi, DIEU PENSE À TOUS"
+- L2273 fonds commun "se dilate comme un CERCLE dont le rayon s'allongerait toujours"
+- L2275 "au temps des DRUIDES"; "quelque chose qui n'est pas de nous est venu à notre aide"
+- L2281-2283 "Baisse de valeur, c'est approximation vers la gratuité. Approximation vers la gratuité, c'est réalisation partielle de communauté"
+- L2285 *** "en acceptant d'avance LE CALICE, je n'en dois pas moins m'efforcer de L'ÉLOIGNER" (Gethsemane, 1st ed.)
+- L2287 "l'abîme qui sépare la communauté et le communisme"; L2289 communauté "par destination providentielle"
+- L2303 Louis Blanc "point d'honneur", Cabet "fraternité"; L2313 "propriété et liberté, c'est... une seule et même chose"
+- L2327-2333 'gratuité' defined: "ce qui ne coûte rien à personne" — Diogène warming in sun "recueillait de la LIBÉRALITÉ DIVINE"; attacks "crédit gratuit, instruction gratuite" as "mystification"; "Dupes d'un mot"
+- L2335 "la communauté PROVIDENTIELLE des dons de Dieu"
+## Ch IX Propriété foncière
+- L2341-2345 creation narrative: "Dieu a créé la terre. Il a mis à sa surface et DANS SES ENTRAILLES une foule de choses utiles... Il a mis dans la matière des forces: gravitation, élasticité, porosité, compressibilité, calorique, lumière, électricité, CRISTALLISATION, vie végétale. Il a placé l'homme en face... livrés gratuitement"; L2351 men = "USUFRUITIERS de ces dons"
+- L2355 "L'universel instinct de l'humanité, plus infaillible qu'aucune élucubration individuelle" (consensus gentium)
+- L2361 "ce qu'on nomme improprement matières premières"
+- L2383 three schools share false premise "les agents naturels ont ou créent de la valeur"
+- L2439 Say: "La terre est un ATELIER CHIMIQUE admirable où se combinent et s'élaborent... matériaux et éléments"
+- L2451 Blanqui quoted: "pas plus que la patience des ALCHIMISTES n'a découvert le SECRET DE FAIRE DE L'OR" — Bastiat: "confusion"
+- L2471-2505 Considérant (Fourierist) "capital primitif... incréé... valeur de la terre brute" -> Bastiat: "incréée, primitif, naturel excluent radicalement... valeur, capital"
+- L2513-2517 Proudhon: "le créateur de la terre ne la vend pas, il la donne... aînés, bâtards"; "que le Créateur se présente... ou que le propriétaire... montre sa procuration"
+- L2529-2617 Frère Jonathan parable (Arkansas); L2531 "le sol, le soleil, la pluie accomplissent leurs MIRACLES"
+- L2577 landowner claims "merveilleux effets du SOLEIL ET DE LA LUNE, de l'AFFINITÉ et de l'électricité"; L2587 farmer: "Le soleil et la lune m'y serviront gratis"; L2623 "rayons solaires et lunaires, pluie, vent, ROSÉE, gelée" (Sol/Luna/dew — alchemical emblems, here agronomy/natural theology)
+- L2589 "Dieu a pourvu avec quelque sagesse à ce qu'il ne fût pas facile d'INTERCEPTER SES DONS"
+- L2623 "les lois sociales manqueraient d'harmonie, si le CHÂTIMENT d'un tel crime ne naissait naturellement du CRIME MÊME" (immanent, self-punishing evil)
+- L2651 "la liberté, qui est la COMMUNAUTÉ DES BIENFAITS DE DIEU"
+- L2657 "plusieurs centaines de siècles"
+- L2669 ship-rationing analogy
+- L2673 *** ESCHATOLOGY REFUSED: "Dieu tient-il en réserve... quelque CATACLYSME CRÉATEUR, quelque merveilleuse manifestation de sa puissance infinie? Ou bien faut-il croire, avec le DOGME CHRÉTIEN, à la DESTRUCTION DE CE MONDE? Évidemment ce ne sont plus là des problèmes économiques"; physics: mountains fill valleys, rivers' mouth = source level (leveling/entropy); "substituer à un acte de CURIOSITÉ un acte de CONFIANCE. Celui qui a si merveilleusement arrangé le milieu où nous vivons saura bien préparer un autre milieu"
+- L2675 "six mille ans"; L2677 "un VOILE IMPÉNÉTRABLE nous cache la puissance, peut-être indéfinie, de L'ART"; L2679 "remettons avec confiance les destinées des races futures entre les mains de celui qui les aura appelées à la vie"
+- L2685 *** WATER CYCLE as "le TRAVAIL DE DIEU": "l'Océan qui inspire le poète... merveilleuse INDUSTRIE DE LA NATURE... le soleil échauffe cette masse agitée et la soumet à une lente ÉVAPORATION. L'eau prend la forme gazeuse et, DÉGAGÉE DU SEL qui l'altère, elle S'ÉLÈVE dans les hautes régions... le froid qui la CONDENSE... se FILTRE ET S'ÉPURE à travers... schistes et graviers... CHANGEMENT DE FORMES, CHANGEMENT DE LIEUX [= Say's categories of production]... si ce qu'on pourrait appeler LE TRAVAIL DE DIEU se payait... ce que vaudrait une seule goutte d'eau" (looks like distillation/sublimation — cf. Tabula smaragdina 'ascendit a terra in coelum' — but is the classic physico-theological water cycle of Fénelon/Pluche/Bernardin)
+- L2691 wheat: "immense, incommensurable INDUSTRIE NATURELLE dont la science la plus avancée ignore encore LES SECRETS. Des gaz, des SELS... électricité, AFFINITÉ, vent, pluie, lumière, chaleur, la vie... TRANSPORTER, TRANSFORMER, RAPPROCHER, DIVISER, COMBINER ces éléments... à notre insu"; nature "contrainte d'agir"
+- L2699 "La valeur s'est INCORPORÉE, confondue dans le sol... par métonymie"; "n'intercepte ni ne taxe aucun DON DU CIEL"
+- L2711 ironic "cet ÉLÉMENT MAUDIT qu'on appelle intérêt"; destroying improvements = "utopie égalitaire"
+- L2713 *** "Oh! me sera-t-il donné d'en PARCOURIR LE CERCLE TOUT ENTIER!... le monde social ne porte pas moins que le monde matériel L'EMPREINTE D'UNE MAIN DIVINE d'où découlent la sagesse et la bonté, vers laquelle doivent s'élever notre admiration et notre reconnaissance" (cf. doctrine of signatures — but physico-theological 'empreinte du Créateur')
+- L2735 "depuis Adam"; L2737 "tous les MIRACLES DE VÉGÉTATION"; "le soleil, la pluie, la rosée, l'oxygène, l'hydrogène et l'azote"
+- L2771 "merveilleuse industrie naturelle... évaporation... transport des nuages... congélation, liquéfaction"
+- L2781 géant basque, Tom Pouce; L2787 colonisations "lamentable martyrologe"; L2791 cites CAREY
+- L2799 *** "les Quesnay, les Turgot, les Smith, les Malthus, les Say... ceux que je regarde, j'en fais la déclaration solennelle, comme MES INITIATEURS, MES GUIDES, MES MAÎTRES" (1st ed.); an error pressed "aboutit au CHAOS"
+## Ch X Concurrence
+- L2805 "un phénomène indestructible, par conséquent PROVIDENTIEL"; association "intégrale" mocked (Fourierist term)
+- L2807 "concurrence, ce n'est qu'absence d'oppression... c'est la liberté... tuer l'homme"
+- L2809 central authority = worst despotism "cervelle de pacha ou de mufti"
+- L2815 *** competition "la LOI DÉMOCRATIQUE par essence... la plus progressive, la plus égalitaire, la plus COMMUNAUTAIRE de toutes celles à qui la PROVIDENCE a confié le progrès... fait successivement TOMBER DANS LE DOMAINE COMMUN... conquêtes dont le génie de chaque siècle accroît le TRÉSOR des générations"; "grand lama/paria"; "socialistes et leurs ADEPTES"; "l'incommensurable supériorité des DESSEINS DE DIEU sur les vaines et impuissantes combinaisons des hommes"
+- L2823 "Je détruis en un jour plus que je ne pourrais créer en un siècle"
+- L2825 "le TRAVAIL du chaud, du froid, de la lumière, de la gravitation, de l'AFFINITÉ, de l'élasticité"
+- L2827 *** SECRET: "tant que celui qui a utilisé un agent naturel est MAÎTRE DE SON SECRET, cet agent naturel est gratuit, sans doute, mais il n'est pas encore COMMUN; la conquête... au profit d'un seul homme ou d'une seule classe"
+- L2829 without competition: "monopole universel au lieu de... communauté progressive"
+- L2831-2833 *** "Dieu, qui a prodigué à toutes ses créatures la chaleur, la lumière, la gravitation, l'air, l'eau, la terre, les merveilles de la vie végétale, l'électricité... Dieu, qui a mis dans l'individualité l'intérêt personnel qui, COMME UN AIMANT, attire toujours tout à lui, Dieu... a placé aussi, au sein de l'ordre social, un autre RESSORT auquel il a confié le soin de conserver à ses bienfaits leur DESTINATION PRIMITIVE, la gratuité, la communauté. Ce ressort, c'est la concurrence"
+- L2835 two forces: "intérêt personnel... indomptable force individualiste... qui nous porte aussi à le monopoliser. La concurrence est cette force HUMANITAIRE... qui arrache le progrès... pour en faire L'HÉRITAGE COMMUN DE LA GRANDE FAMILLE HUMAINE. Ces deux forces... constituent dans leur ensemble... l'harmonie sociale" (dual forces -> harmony)
+- L2837 "la fausse science... au nom de la philanthropie, de l'égalité, de la fraternité"
+- L2847-2851 three advantages: own the gift, own the PROCEDURE (secret), own the instrument
+- L2863 "Dieu nous a fait deux dons précieux"
+- L2865 without competition: "Serions-nous FRÈRES ici-bas? Pourrions-nous nous considérer comme les FILS D'UN PÈRE COMMUN?... Il ne resterait rien de la DEVISE RÉPUBLICAINE" (liberté->égalité->fraternité)
+- L2873 *** "l'inégalité n'est qu'un AIGUILLON qui nous pousse malgré nous vers l'égalité. C'est une des plus belles INTENTIONS FINALES du mécanisme social. Il semble que la BONTÉ INFINIE... ait choisi l'avide producteur pour en opérer entre tous la distribution équitable... merveilleux spectacle que celui de l'intérêt privé RÉALISANT SANS CESSE CE QU'IL ÉVITE TOUJOURS... sans le savoir, sans le vouloir... L'intérêt général"
+- L2875 "pour la BÉNIR, la révolution qui s'est opérée"; "le don de Dieu... n'a été retiré à personne"; "gratuité et communauté sont de même ESSENCE"
+- L2877 *** "la communauté se réalise sous forme de VALEUR ANÉANTIE et notre esprit a beaucoup de peine à saisir les NÉGATIONS"
+- L2885 "La houille de Newcastle est prodiguée gratuitement à tous les hommes"
+- L2889 socialists see only "la superficie des choses, l'ÉPIDERME de la société"; competition to be "admirée... bénie comme la plus éclatante manifestation de l'impartiale SOLLICITUDE DE DIEU envers toutes ses créatures"; combines with egoism "si ARTISTEMENT... frein... aiguillon"
+- L2893 theory trusted "d'accord avec la pratique universelle"; "il faut la baïonnette"
+- L2895 *** invention = "CONNAISSANCE EXCLUSIVE DES PROCÉDÉS"; "belles et pacifiques conquêtes... deviennent bientôt, sous l'action de la concurrence, le PATRIMOINE COMMUN ET GRATUIT de tous les hommes" (secret -> commons)
+- L2897 gravitation "une propriété commune; elle nous entoure, elle nous PÉNÈTRE, elle domine"
+- L2899 "A CHACUN SELON SA CAPACITÉ" (Saint-Simonian formula, co-opted)
+- L2903-2907 invention cycle, 3 phases: invention (exclusive) -> imitation (OCR reads 'initiation') -> "diffusion universelle, communauté, gratuité... son CYCLE est parcouru"; "une masse incalculable de peine ou de valeur a été ANÉANTIE par la charrue, la machine à filer, l'imprimerie et la voile"
+- L2923 interest falling Rome 30-40% -> Holland <3%; "élévation du NIVEAU général de l'espèce humaine"
+- L2935-2939 paupérisme = "le problème social"; "Plût à Dieu que la solution sortît du livre tout entier"
+- L2945 *** "je n'ai nié ni LE MAL ni SA MISSION... le libre arbitre implique l'erreur... et L'ERREUR, C'EST LE MAL. L'harmonie sociale... est RELATIVE; le mal est un de ses ROUAGES NÉCESSAIRES destiné à vaincre l'erreur, l'ignorance, l'injustice, en mettant en œuvre deux grandes lois...: la RESPONSABILITÉ et la SOLIDARITÉ"
+- L2949 paupérisme "par destination providentielle... Fatalité, injustice, responsabilité"
+- L2957 competition "centrifuge" / "centripète"; physicists knowing only centrifugal force
+- L2961 solution "ne peut nous être VOILÉE que par les illusions de l'habitude"
+- L2963 "Tel est le CERCLE que nous avons à parcourir"
+- L2977 *** ANTI-ESOTERIC: two social layers (principe intelligent / force brute), "force d'ATTRACTION... force d'ASPIRATION... FUSION"; "le RAYONNEMENT des clartés qui ILLUMINENT les classes élevées"; "la science, MONOPOLISÉE par une classe ou même une CASTE, VOILÉE PAR UNE LANGUE MORTE ou SCELLÉE DANS UNE ÉCRITURE HIÉROGLYPHIQUE, s'écrit et s'imprime EN LANGUE VULGAIRE, pénètre... l'atmosphère et SE RESPIRE COMME L'AIR"
+- L2979 euhemerism: agricultural procedures "méritèrent, à ceux qui les ont RÉVÉLÉS au monde, les honneurs de l'APOTHÉOSE"; now "routine"
+- L2993 flux of utilities distributed "dans toutes les VEINES du corps social"
+- L2999 *** "l'HARMONIE DIVINE que la Providence a répandue dans le mécanisme de la société... la concurrence, qui est une des branches de la grande LOI DE LA SOLIDARITÉ humaine"
+- L3003 *** "si la race de CADMUS était la seule qui sût lire; si nul n'était admis à manier une charrue à moins de prouver qu'il descend en droite ligne de TRIPTOLÈME; si seuls les descendants de Gutenberg... Arkwright... Watt" (Cadmus = husband of HARMONIA in Pernety's alchemical mythography; here euhemerist inventor of letters)
+- L3005 competition = "ressort" by which every advantage "s'ÉCOULE entre les mains du producteur... et vient grossir le PATRIMOINE COMMUN ET GRATUIT de l'humanité"
+- L3007 "liens de l'UNIVERSELLE FRATERNITÉ"
+- L3011 "admirable DÉCRET DE LA MUNIFICENCE DIVINE"; "Chaque progrès qui se fait à l'ORIENT est une richesse en perspective pour l'OCCIDENT"
+- L3013 goods and ills: "leur DESTINÉE PROVIDENTIELLE est d'aller... affecter l'humanité tout entière" (solidarity)
+- L3017 "Nuire à autrui, c'est se nuire à soi-même... les passions mauvaises ont leur CHÂTIMENT... maxime d'éternelle vérité: l'utile, c'est un des aspects du juste; la liberté, c'est la plus belle des harmonies sociales; l'équité, c'est la meilleure politique"
+- L3019 *** "Le CHRISTIANISME a introduit dans le monde le grand principe de la FRATERNITÉ humaine. Il s'adresse au cœur... L'ÉCONOMIE POLITIQUE vient faire accepter le même principe à la froide raison... réconcilier... les calculs de l'intérêt... avec les inspirations de la morale la plus sublime" (explicit Christianity-economics concordance)
+- L3021 "la société est une véritable COMMUNAUTÉ. MM. Owen et Cabet... solution toute trouvée... l'organisation que Dieu a donnée"
+- L3025 *** "le grand principe de la PERFECTIBILITÉ humaine... s'élever le niveau de son perfectionnement physique, intellectuel et moral; et par cet arrangement... on voit clairement L'HUMANITÉ SE RELEVER DE SA DÉCHÉANCE"
+- L3027 "ces trois grands DOGMES SOCIAUX" (fraternité, communauté, perfectibilité)
+- L3029 "il serait IMPIE de supposer qu'aucune grande loi de la nature pût en produire [effets] à la fois nuisibles et permanents"
+- L3037 "le christianisme lui-même a jeté la grande SEMENCE de l'amour... sur une terre abreuvée du SANG DES MARTYRS"
+- L3039 *** "Comment est-il entré dans les desseins de la bonté et de la justice infinies que le bonheur d'une région ou d'un siècle soit ACHETÉ PAR LES SOUFFRANCES d'un autre...? Quelle est LA PENSÉE DIVINE QUI SE CACHE sous cette grande et irrécusable LOI DE LA SOLIDARITÉ, dont la concurrence n'est qu'un des MYSTÉRIEUX ASPECTS? LA SCIENCE HUMAINE L'IGNORE. Ce qu'elle sait, c'est que le bien s'étend toujours et le mal se restreint sans cesse... l'intensité va toujours s'affaiblissant comme les VIBRATIONS DU SON, comme les oscillations du PENDULE"; remedies "la prévoyance... et l'ASSOCIATION, qui est la prévoyance organisée"
+- L3041 recap dualities: "la libéralité de Dieu et l'œuvre de l'homme... forces chimiques ou mécaniques CONTRAINTES d'aider la production par les instruments qui les ASSERVISSENT... la communauté et la propriété"
+- L3043 property's "œuvre... conquérir... de l'utilité, la jeter dans le domaine commun et VOLER à de nouvelles conquêtes"; gifts' "destination providentielle, la gratuité"
+- L3055 "l'impôt, qui, nous INITIANT dans la politique proprement dite"
+- L3061 "Approximation constante de tous les hommes vers un NIVEAU qui s'élève toujours... Perfectionnement et égalisation; en un seul mot: HARMONIE"
+- L3063 "l'économiste peut bien s'écrier comme fait l'ASTRONOME... ou le PHYSIOLOGISTE...: DIGITUS DEI EST HIC!"
+- L3065 "puissance libre, par conséquent FAILLIBLE"; physiologist studies "l'état anormal, maladif... le monde des PERTURBATIONS sociales"
+- L3067 *** 1st ed: "le MAL SOCIAL, son origine, ses effets, SA MISSION, des bornes toujours plus étroites dans lesquelles IL SE RESSERRE PAR SA PROPRE ACTION (ce qui constitue ce que j'oserais presque appeler une DISSONANCE HARMONIQUE)... libre arbitre... égarements toujours CHÂTIÉS de l'intérêt personnel... RESPONSABILITÉ et SOLIDARITÉ"
+- L3069-3073 harmonies "contenues EN GERME" in Propriété, Liberté; dissonances = Spoliation, Oppression; "Liberté! principe HARMONIQUE. Oppression! principe DISSONANT. La LUTTE DE CES DEUX PUISSANCES remplit les annales du genre humain"
+- L3077-3081 "joug du besoin... joug du travail... Il n'a donc que LE CHOIX DES DOULEURS"
+- L3099 *** "Cet ARRÊT a été prononcé sur l'homme dès l'origine: TU MANGERAS TON PAIN À LA SUEUR DE TON FRONT... partout nous voyons l'homme SE RÉVOLTER contre cette loi, et dire à SON FRÈRE: À toi le travail; à moi le fruit du travail" (spoliation = revolt vs Gen 3 decree; Cain-like)
+- L3101 woman's "effroyable DÉCHÉANCE"
+- L3103 conquerors Cyrus, Sésostris... Mahomet, Pizarre
+- L3107 *** THEOCRATIC SPOLIATION: "PRÊTRES ÉGYPTIENS, ORACLES grecs, AUGURES romains, DRUIDES gaulois, BRAMINES indiens, muphtis, ulémas, bonzes, moines, ministres, JONGLEURS, SORCIERS, DEVINS, spoliateurs de tous costumes... le génie de la spoliation place son point d'appui dans le ciel, et se prévaut de la SACRILÈGE COMPLICITÉ DE DIEU... l'ESCLAVAGE MENTAL" (Séide, Spartacus)
+- L3109 "Ô liberté!... ANATHÉMATISÉE DANS LES TEMPLES"
+- L3111 "des LUMIÈRES qui DÉVOILENT ses impostures"; spoliation -> politique, bureaucratie
+- L3115 "quand enfin la science DÉVOILE ses méfaits... 'Il n'y a pas de principes!'"
+- L3117 masses spoliate themselves: "cela s'appelle SOLIDARITÉ, FRATERNITÉ"; association, organisation du travail, gratuité du crédit to be tested
+- L3121-3123 FINAL (1st ed): "si la spoliation entre nécessairement dans le jeu du mécanisme social comme DISSONANCE... en tout ce qui concerne l'homme, cet être qui N'EST PERFECTIBLE QUE PARCE QU'IL EST IMPARFAIT, l'harmonie ne consiste pas dans l'absence absolue du MAL, mais dans sa GRADUELLE RÉDUCTION; le corps social, comme le corps humain, est pourvu d'une FORCE CURATIVE, VIS MEDICATRIX, dont on ne peut étudier les lois et l'infaillible puissance sans s'écrier encore: DIGITUS DEI EST HIC!"
+
+## Cross-references to the complete *Dictionary of Gnosis & Western Esotericism* (vol. 1 entries, added after the full PDF upload)
+
+Printed page numbers of the Brill 2006 one-volume edition.
+
+- **Ballanche** (McCalla, pp. 160–162). Social palingenesis = "the providential law governing history"; each advance "won at the price of suffering… the means by which humanity expiates original sin"; "the means of overcoming the consequences of the Fall were produced in the Fall itself"; terminus "full religious and social equality"; patrician → plebeian initiation; Universal Adam; correspondences; magnetism.
+  - Parallels: L145 (evil limits and destroys itself), L583 (suffering bought and merited), L2013 (« se rachète à la sueur de son front »), L2977 (two social « couches », attraction/aspiration, « fusion »), L3025 (« se relever de sa déchéance »), L3061 (« niveau qui s'élève… égalisation »).
+  - Divergences: no initiation (L2977 has books, teaching, the vernacular); no revelation (L221); unity at the end, not the beginning (L811); Adam only as a date (L2735).
+- **Correspondences** (Brach & Hanegraaff, pp. 275–279). Non-causal/occult/ontological causality vs "instrumental causality"; Vickers, "Analogy versus Identity". → Bastiat's analogies are all instrumental-causal (L497, L1053, L2957); anti-metaphor passages L863, L1275, L1443.
+- **Alchemy IV** (Coudert, pp. 41–49). Restoration to prelapsarian perfection → Enlightenment idea of progress; alchemical secrecy ≈ trade secrets before patents, then a "new rhetoric of clarity and openness". → L2827, L2851, L2895, L2903–2907 (inventor's secret dissolved by competition).
+- **Alchemy V** (pp. 49–56). Early-19th-c. French alchemy: Cyliani 1832, Cambriel 1843, Noël *L'alchymie du Maçon* (ms. 1813, within high-degree masonry). "Spiritual alchemy" first formulated by Atwood (1850) and Hitchcock (1857: "the subject of Alchemy was Man… the object… the perfection of Man"). → A moral-perfection reading of alchemy is contemporary with, not prior to, the *Harmonies*.
+- **Esotericism** (Hanegraaff, pp. 336–340). Noun *ésotérisme*: Matter 1828; Marconis de Nègre 1839 (ancient priestly "division of the sacred science in exotericism… and esotericism"); Leroux 1840 ("a kind of superior caste elevated to understanding by means of initiation"); Lachâtre 1852. Typological vs historical senses; secrecy is not a defining criterion of the historical field. → L2977 « science, monopolisée par une classe ou même une CASTE, voilée… hiéroglyphique ».
+- **Egyptomany** (Faivre, pp. 328–329). Two postulates: hieroglyphs as bearers of initiatic meaning; Egypt close to the primordial Tradition; Court de Gébelin; Pernety's *Fables égyptiennes*; Egyptian masonic rites (Misraïm, Memphis). → L2977, L3107 (« prêtres égyptiens » first among theocratic spoliators).
+- **Animal Magnetism/Mesmerism** (pp. 75–82). Société de l'Harmonie; Lyon esoteric magnetists "mixed the idea of progress with eschatological expectations"; Academy of Medicine refuses all papers on magnetism (1842). → Bastiat's *magnétisme* = compass only (L927, L1941); animal magnetism never mentioned.
+- **Court de Gébelin** (Mercier-Faivre, pp. 279–280). Member of the Economic Society of Bern; secretary of the Nine Sisters lodge; Philalèthe; joined Mesmer's Société de l'Harmonie; *Monde primitif* seeks "lost harmony" and "the harmony of the world", with Egypt as depository of the highest knowledge. → Shows the combination was historically available. Its absence in Bastiat is therefore informative.
+- **Freemasonry** (Dachez, pp. 381–387). Speculative masonry = tools applied "to the moral life"; 1507 square "upon the level, by the square"; Ramsay's *Discourse* (1736): "the interest of the fraternity is that of the entire human race… without jealousy, without discord"; Hermetic content in high degrees (Rite Écossais Philosophique: lodge as athanor), Egyptian rites (Marconis, *L'Hiérophante*, 1839); "mainly secular and humanist" French masonry is said of the *late* 19th c. → L3007 (« universelle fraternité »), L3017 (« jalousies nationales… absurdes »), *niveau* passages L23, L221, L441, L3061.
+- **Music IV** (p. 815). The Enlightenment discarded the *musica mundana*; Fourier is listed among French esotericists whose cosmic systems gave music a central role. → Bastiat's music: consumer good only (L1127, L1383, L2241).
+- **Fourier**: no entry in the *Dictionary*.
